@@ -15,4 +15,4 @@ You will have to create a chess-like strategy game which can be played by two hu
 ### Resources
 - [Diagrams](diagrams)
 - [Youtube Video](https://www.youtube.com/watch?v=EDnenFTcVl0)
-[![Youtube Snipping](youtube-snipping.png)](https://www.youtube.com/watch?v=EDnenFTcVl0)
+ - [![Youtube Snipping](youtube-snipping.png)](https://www.youtube.com/watch?v=EDnenFTcVl0)
