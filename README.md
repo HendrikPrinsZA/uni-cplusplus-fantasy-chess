@@ -12,10 +12,9 @@ You will have to create a chess-like strategy game which can be played by two hu
 - OOP
 - Design Patterns
 
-### Resources
+### Docs
 - [Diagrams](diagrams)
-- [Youtube Video](https://www.youtube.com/watch?v=EDnenFTcVl0)
- - [![Youtube Snipping](youtube-snipping.png)](https://www.youtube.com/watch?v=EDnenFTcVl0)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EDnenFTcVl0" frameborder="0" allowfullscreen></iframe>
+### Youtube Video
+[![Youtube Snipping](youtube-snipping.png)](https://www.youtube.com/watch?v=EDnenFTcVl0)
+[Youtube Video](https://www.youtube.com/watch?v=EDnenFTcVl0)
